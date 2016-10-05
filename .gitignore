@@ -1,0 +1,7 @@
+/tags/*
+!/tags/Atea*
+/alerts/*
+!/alerts/Atea*
+/vmdb/product/menubar/*access*
+/policies/*
+!/policies/*Atea*
